@@ -53,7 +53,7 @@
     "nconf": "0.8.4",
     "ncp": "2.0.0",
     "parse-filepath": "0.6.3",
-    "request": "2.80.0",
+    "request": "2.88.2",
     "rimraf": "2.6.1",
     "salvator": "0.2.0",
     "simple-virtual-dom": "0.1.9",
